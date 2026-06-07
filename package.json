@@ -1,0 +1,9 @@
+{
+    "name": "dual-engine-api",
+    "version": "1.0.0",
+    "description": "Movie Streaming API for Vercel",
+    "main": "api/index.js",
+    "engines": {
+        "node": "18.x"
+    }
+}
