@@ -4,6 +4,6 @@
     "description": "Movie Streaming API for Vercel",
     "main": "api/index.js",
     "engines": {
-        "node": "18.x"
+        "node": "24.x"
     }
 }
